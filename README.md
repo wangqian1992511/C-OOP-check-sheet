@@ -1,6 +1,6 @@
 # CPP OOP check sheet
-### [基本概念](basic.md)
-### 继承
+### [基本概念（basic concepts）](basic.md)
+### [继承（inheritance）](inheritance.md)
 ### 多态
 ### 重载
 ### 抽象
